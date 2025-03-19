@@ -1,0 +1,3 @@
+[submodule "flask-chatbot"]
+    path = flask-chatbot
+    url = https://github.com/charurathour/flask-chatbot.git
